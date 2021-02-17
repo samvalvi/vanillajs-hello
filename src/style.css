@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#excuse-box {
+  font-family: "Yusei Magic";
+  height: auto;
+  padding: 1em;
+  width: 45em;
+}
